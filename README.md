@@ -1,1 +1,3 @@
-Breaking Bad Search App in React 
+# Breaking Bad Search
+
+Search App in React
